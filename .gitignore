@@ -1,0 +1,9 @@
+# 分析フォルダ（Analysis）は追加しない
+/EqualizingNodeBurden/analysis/*
+!/EqualizingNodeBurden/analysis/*.py
+
+/EqualizingNodeBurden_Hierachically/analysis/*
+!/EqualizingNodeBurden_Hierachically/analysis/*.py
+
+/KademliaXOR/analysis/*
+!/KademliaXOR/analysis/*.py
